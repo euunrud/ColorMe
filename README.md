@@ -1,5 +1,6 @@
 Lua 기반 스토리형 게임, 🌈ColorMe🌈
 -----------
+![main](https://github.com/euunrud/ColorMe/blob/main/Untitled.png)
 
 **< TARGET >** 어린이
 
